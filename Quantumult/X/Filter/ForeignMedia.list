@@ -2,10 +2,6 @@
 # (Music)
 # > Spotify
 USER-AGENT,Spotify*,ForeignMedia
-DOMAIN-SUFFIX,pscdn.co,ForeignMedia
-DOMAIN-SUFFIX,scdn.co,ForeignMedia
-DOMAIN-SUFFIX,spotify.com,ForeignMedia
-DOMAIN-SUFFIX,spoti.fi,ForeignMedia
 # > YoutubeMusic
 USER-AGENT,com.google.ios.youtubemusic*,ForeignMedia
 USER-AGENT,YouTubeMusic*,ForeignMedia
