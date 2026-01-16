@@ -32,9 +32,3 @@ DOMAIN-SUFFIX,pornhubpremium.com,ForeignMedia
 DOMAIN-SUFFIX,twitch.tv,ForeignMedia
 DOMAIN-SUFFIX,twitchcdn.net,ForeignMedia
 DOMAIN-SUFFIX,ttvnw.net,ForeignMedia
-# > Youtube
-USER-AGENT,com.google.ios.youtube*,ForeignMedia
-USER-AGENT,YouTube*,ForeignMedia
-DOMAIN-SUFFIX,googlevideo.com,ForeignMedia
-DOMAIN-SUFFIX,youtube.com,ForeignMedia
-DOMAIN,youtubei.googleapis.com,ForeignMedia
